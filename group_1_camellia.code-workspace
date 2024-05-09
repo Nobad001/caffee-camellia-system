@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "berwa_shop",
+			"path": "berwa_shop"
+		},
+		{
+			"name": "Berwa_shop-system",
+			"path": "Berwa_shop-system"
+		}
+	],
+	"settings": {}
+}

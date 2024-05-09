@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(45deg,rgb(202, 188, 188),rgb(228, 159, 159),rgb(114, 114, 184));
+}
+tr th{
+    color: rgb(255, 255, 255);
+    box-shadow: 4px solid rgb(0, 0, 0);
+}
